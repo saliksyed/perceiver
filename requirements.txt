@@ -1,2 +1,4 @@
 pyvista==0.39.1
-polygenerator==0.2.0
+numpy
+tensorflow
+matplotlib
